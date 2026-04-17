@@ -2,7 +2,7 @@
 
 A modern, interactive 3D portfolio website showcasing my projects, skills, and education background. Built with React, TypeScript, Three.js, and GSAP for smooth animations and an immersive user experience.
 
-🔗 **Live:** [Coming Soon](#)
+🔗 **Live:** (https://omkargonnela.omkargonnela.workers.dev/)
 
 ---
 
